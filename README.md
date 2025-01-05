@@ -39,7 +39,7 @@ Highlights top-performing rooms, packages, and locations, enabling executives to
 
 ## Live Dashboard
 
-Explore the Live dashboard here:**[NovaLux Hospitality Inights](https://app.powerbi.com/view?r=eyJrIjoiYTQzYmFmNzMtMjkyMi00OWYyLWIzZGQtODM0YTNiOTQyMTJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1f3d0f4bdc02da959549)**  
+Explore the Live dashboard here:**[NovaLux Hospitality Insights](https://app.powerbi.com/view?r=eyJrIjoiYTQzYmFmNzMtMjkyMi00OWYyLWIzZGQtODM0YTNiOTQyMTJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1f3d0f4bdc02da959549)**  
 
 ## Business Impacts
 
