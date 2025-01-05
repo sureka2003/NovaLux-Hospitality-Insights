@@ -1,6 +1,6 @@
 # NovaLux Hospitality Insights - A Data-Driven Solution for NovaLux Grands🎉
 
-![Project Banner Placeholder](https://github.com/sureka2003/Business-Insights-360/blob/main/AtliQ%20Designed%20logo%20for%20Github%20repo.jpg)
+![Project Banner Placeholder](https://github.com/sureka2003/NovaLux-Hospitality-Insights/blob/main/Novalux%20logo)
 
 Welcome to **NovaLux Hospitality Insights**, an interactive Power BI project designed to empower NovaLux Grands with actionable data analytics. 
 
