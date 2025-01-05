@@ -39,7 +39,7 @@ Highlights top-performing rooms, packages, and locations, enabling executives to
 
 ## Live Dashboard
 
-Explore the Live dashboard here:**[NovaLux Hospitality Inights](https://app.powerbi.com/view?r=eyJrIjoiYzA3YTc4YTQtYTdhOS00N2NiLTlhZGMtNmU3NzljZDNhOGVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+Explore the Live dashboard here:**[NovaLux Hospitality Inights](https://app.powerbi.com/view?r=eyJrIjoiYTQzYmFmNzMtMjkyMi00OWYyLWIzZGQtODM0YTNiOTQyMTJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1f3d0f4bdc02da959549)**  
 
 ## Business Impacts
 
@@ -74,7 +74,7 @@ Feel free to add your questions and code snippets below and submit them as issue
 ## Contact Me
 
 
-📄 **[Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)**  
+📄 **[Resume](https://drive.google.com/file/d/13Wzk8LzEQFSS6nlls7EzPZSdz_Wenqz1/view?usp=sharing)**  
 📧 **[Email](mailto:surekafathimsf2003@gmail.com)**  
 📞 **Phone**: +91 82481 25454
 
